@@ -1,5 +1,7 @@
 # Lending Club Case Study
-> Outline a brief description of your project.
+> This case study is to analyze the factors influencing loan defaulter on a loan data given from consumer finance company
+> In this case study, you will use EDA to understand how consumer attributes and loan attributes influence the tendency of default
+> Recommendation will be given on what attributes tend to default so that future loan sanction can use these attribute to reject the load application 
 
 
 ## Table of Contents
@@ -11,10 +13,11 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Consumer finance company has given loan data set. We need to analyze the given data using EDA.
+- Recommend the attribte of loan applicants who are likely to default. This helps to reject the loan
+- Lending the loan has assossiated with risks. If loan taker defauts then lender will lose the money.
+- It is critical to analyze risks assosiated with lending money
+- Loan data set is used
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 

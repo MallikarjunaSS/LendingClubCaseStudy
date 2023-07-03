@@ -19,8 +19,8 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
+- Conclusion 1 Many columns had all missing values, hence dropped all these columns 
+- Conclusion 2 Many columns had all zeros, some columns had same constan values. Hence dropped these columns
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
@@ -42,8 +42,8 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
+Created by [@MallikarjunaSS] - feel free to contact me!
+Contributed by [@Sri1405] - feel free to contact me!
 
 <!-- Optional -->
 <!-- ## License -->
